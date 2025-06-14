@@ -1,0 +1,1 @@
+DROP TABLE Penalty_Info
