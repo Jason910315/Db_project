@@ -443,3 +443,83 @@
 2025-06-14 18:05:01,978 - INFO - 🚀 開始轉移資料表：Transgress_Info
 2025-06-14 18:05:03,111 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
 2025-06-14 18:05:03,384 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 14:28:17,456 - INFO - 🚀 建立資料表 Appeal 完畢
+2025-06-15 14:28:17,797 - INFO - 🚀 建立資料表 Factory 完畢
+2025-06-15 14:28:18,103 - INFO - 🚀 建立資料表 Inspection 完畢
+2025-06-15 14:28:18,392 - INFO - 🚀 建立資料表 Labor_Law 完畢
+2025-06-15 14:28:18,657 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 14:28:18,688 - INFO - 🚀 建立資料表 Labor_Transgress 完畢
+2025-06-15 14:28:18,982 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 14:28:19,008 - INFO - 🚀 建立資料表 Payment 完畢
+2025-06-15 14:28:19,327 - INFO - 🚀 建立資料表 Penalty_Info 完畢
+2025-06-15 14:28:19,631 - INFO - 🚀 建立資料表 Transgress_Info 完畢
+2025-06-15 14:31:00,638 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-15 14:31:00,941 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-15 14:31:01,242 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-15 14:31:01,521 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-15 14:31:01,794 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 14:31:01,824 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-15 14:31:02,126 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 14:31:02,382 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-15 14:31:02,682 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-15 14:31:02,977 - INFO - ✅ 建立資料表 Transgress_Info 完畢
+2025-06-15 15:14:58,319 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-15 15:14:58,657 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-15 15:14:58,991 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-15 15:14:59,294 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-15 15:14:59,581 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:14:59,613 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-15 15:14:59,906 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:14:59,927 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-15 15:15:00,244 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-15 15:15:00,565 - INFO - ✅ 建立資料表 Transgress_Info 完畢
+2025-06-15 15:24:31,395 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-15 15:24:31,693 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-15 15:24:32,008 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-15 15:24:32,340 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-15 15:24:32,658 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:24:32,692 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-15 15:24:32,971 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:24:33,003 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-15 15:24:33,331 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-15 15:24:33,659 - INFO - ✅ 建立資料表 Transgress_Info 完畢
+2025-06-15 15:35:10,707 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-15 15:35:10,993 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-15 15:35:11,281 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-15 15:35:11,624 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-15 15:35:11,989 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:35:12,019 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-15 15:35:12,315 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:35:12,341 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-15 15:35:12,677 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-15 15:35:12,983 - INFO - ✅ 建立資料表 Transgress_Info 完畢
+2025-06-15 15:35:59,804 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-15 15:36:00,083 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-15 15:36:00,409 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-15 15:36:00,778 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-15 15:36:01,105 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:36:01,135 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-15 15:36:01,392 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 15:36:01,418 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-15 15:36:01,706 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-15 15:36:01,988 - INFO - ✅ 建立資料表 Transgress_Info 完畢
+2025-06-15 21:54:35,130 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-15 21:54:35,448 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-15 21:54:35,776 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-15 21:54:36,092 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-15 21:54:36,394 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 21:54:36,421 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-15 21:54:36,706 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-15 21:54:36,732 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-15 21:54:37,074 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-15 21:54:37,409 - INFO - ✅ 建立資料表 Transgress_Info 完畢
+2025-06-16 00:11:01,094 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-16 00:11:01,378 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-16 00:11:01,685 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-16 00:11:01,965 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-16 00:11:02,265 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-16 00:11:02,292 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-16 00:11:02,601 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-16 00:11:02,629 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-16 00:11:02,963 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-16 00:11:03,285 - INFO - ✅ 建立資料表 Transgress_Info 完畢
