@@ -1,0 +1,10 @@
+2025-06-16 20:36:57,047 - INFO - ✅ 建立資料表 Appeal 完畢
+2025-06-16 20:36:57,329 - INFO - ✅ 建立資料表 Factory 完畢
+2025-06-16 20:36:57,616 - INFO - ✅ 建立資料表 Inspection 完畢
+2025-06-16 20:36:57,886 - INFO - ✅ 建立資料表 Labor_Law 完畢
+2025-06-16 20:36:58,179 - ERROR - ❌ 轉移 Labor_Law 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-16 20:36:58,211 - INFO - ✅ 建立資料表 Labor_Transgress 完畢
+2025-06-16 20:36:58,472 - ERROR - ❌ 轉移 Labor_Transgress 錯誤，欄位型別及長度不一致 => mssql : transgress_law nvarchar(1000) maria : transgress_law varchar(255)
+2025-06-16 20:36:58,500 - INFO - ✅ 建立資料表 Payment 完畢
+2025-06-16 20:36:58,789 - INFO - ✅ 建立資料表 Penalty_Info 完畢
+2025-06-16 20:36:59,092 - INFO - ✅ 建立資料表 Transgress_Info 完畢
